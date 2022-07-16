@@ -1,0 +1,6 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  background-image: url('./assets/poker\ table\ texture.jpg');
+  background-size: cover;
+}
